@@ -1,1 +1,2 @@
-Solutions to some of the exercises on Learn Ruby The Hard Way
+Solutions to some of the exercises on "Learn Ruby The Hard Way" book.
+
